@@ -1,0 +1,30 @@
+1,Computer Support Specialist,http://www.bls.gov/ooh/computer-and-information-technology/computer-support-specialists.htm,5,Technical,TC
+2,Computer Support Specialist,http://www.bls.gov/ooh/computer-and-information-technology/computer-support-specialists.htm,5,Associate,AS
+3,Computer Support Specialist,http://www.bls.gov/ooh/computer-and-information-technology/computer-support-specialists.htm,5,Certificate,CT
+4,Software Developer,http://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm,8,Associate,AS
+5,Software Developer,http://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm,8,Associate of Applied,AAS
+6,Computer & Information Systems Manager,http://www.onetonline.org/link/summary/11-3021.00,8,Technical,TC
+7,Computer Programmer,http://www.onetonline.org/link/summary/15-1131.00,8,Certificate,CT
+8,Web Application Development,http://www.onetonline.org/link/summary/15-1134.00,8,Certificate,CT
+9,Web Administration,http://online.onetcenter.org/link/summary/15-1199.03,8,Certificate,CT
+10,Network & Computer Systems Administrators,http://www.bls.gov/ooh/computer-and-information-technology/network-and-computer-systems-administrators.htm#tab-1,7,Associate of Applied,AAS
+11,Information Systems Manager,http://www.onetonline.org/link/summary/11-3021.00,7,Technical,TC
+12,Information Systems Manager,http://www.onetonline.org/link/summary/11-3021.00,7,Certificate,CT
+13,Information Systems Manager,http://www.onetonline.org/link/summary/11-3021.00,7,Certificate,CT
+14,Computer Network Architects,http://www.onetonline.org/link/summary/11-3021.00,6,Associate of Applied,AAS
+15,Computer Systems Administrators,http://www.onetonline.org/link/summary/15-1142.00,6,Technical,TC
+16,Information Secutiry Analysts,http://www.onetonline.org/link/summary/15-1122.00,6,Certificate,CT
+17,Information Systems Manager,http://www.onetonline.org/link/summary/11-3021.02,4,Associate of Applied,AAS
+18,Information Research Scientists,http://www.onetonline.org/link/summary/15-1111.00,4,Technical,TC
+19,Information Research Scientists,http://www.onetonline.org/link/summary/15-1111.00,4,Certificate,CT
+20,Database Administrator,http://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm,3,Associate of Applied,AAS
+21,Database Administrator,http://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm,3,Certificate,CT
+22,Database Administrator,http://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm,3,Certificate,CT
+23,Database Administrator,http://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm,3,Certificate,CT
+24,Database Administrator,http://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm,3,Certificate,CT
+25,Information Research Scientists,http://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm,1,Associate,AS
+26,Information Systems Manager,http://online.onetcenter.org/link/summary/11-3021.00,2,Associate of Applied,AAS
+27,Information Systems Manager,http://online.onetcenter.org/link/summary/11-3021.00,2,Technical,TC
+28,Software Quality Assurance Engineers,http://online.onetcenter.org/link/summary/15-1199.01,2,Certificate,CT
+29,Software Quality Assurance Engineers,http://online.onetcenter.org/link/summary/15-1199.02,2,Certificate,CT
+30,Computer Network Support Specialists,http://online.onetcenter.org/link/summary/15-1152.00,2,Certificate,CT

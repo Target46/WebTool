@@ -1,0 +1,4 @@
+1,"Face to Face","Green","F2F","#4CAF50"
+2,"Distance Education Only","Yellow","DEO","#FFEE58"
+3,"Face to Face & Distance Education","Blue","FoD","#42A5F5"
+4,"Not Offered","Gray","NO","#9E9E9E"

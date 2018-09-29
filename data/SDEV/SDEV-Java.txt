@@ -1,0 +1,6 @@
+1,"DBMS110","INFM 109","INFM 109","https://wwwapps.ivytech.edu/cor3/v/5/8/ShvDHWoZZhDiRBwfRU3ymfLRDKEfG9g8yvZZ7Hf4Kwh5z05RpJp0uPwamcMtDa4w","DBMS 110"
+2,"INFM109","ENGL 083","NONE","https://wwwapps.ivytech.edu/cor3/x/2/4/GkV4kxKAxTQpg1TJRLHkc1GDG3o1RKRiseTMwm1Hv1qvdlN3rxs6K9UARUjHyYgf","INFM 109"
+3,"NETI100","ENGL 083","NONE","https://wwwapps.ivytech.edu/cor3/a/4/3/yy2hYMqrfhtMnLqOr7f4r7F5f4YqAKEdS9bDbRwZnP5vE46v9WIPy1lQZJWwfVaR","NETI 100"
+4,"SDEV120","ENGL 083","NONE","https://wwwapps.ivytech.edu/cor3/w/4/4/U1hxddqqQ61oZtr7b1OCw54YI5FfJy8t5JCvG5X8PZmSTI5Bax8EQ3FOtJCCTSXo","SDEV 120"
+5,"SDEV140","SDEV 120","SDEV 120","https://wwwapps.ivytech.edu/cor3/h/9/7/E9ogEGivF70R1gWvGVBiZSx1KIIckdRlnq9x4Ib0hwsLZcp58RJRNlWY1pKHGidG","SDEV 140"
+6,"SDEV200","SDEV 140, CSCI 101","NONE","https://wwwapps.ivytech.edu/cor3/s/4/4/kBikgRP4e5JjCetHoRype2gThM429XzBbUM2oGxVO1rCliRjEdH7wCvXlm1bZrQX","SDEV 200"

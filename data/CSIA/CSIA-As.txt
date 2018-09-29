@@ -1,0 +1,8 @@
+25,"CSIA210","NETI 105, ITSP 135","ITSP 135","https://wwwapps.ivytech.edu/cor3/d/8/5/5YRYedy5kFR1n9iPj1dnqFaQpAzXL2ZH56snYhMjHnsy8HDBGGwOiENSfI5DN7Ir","CSIA 210"
+28,"INFM109","ENGL 083","NONE","https://wwwapps.ivytech.edu/cor3/x/2/4/GkV4kxKAxTQpg1TJRLHkc1GDG3o1RKRiseTMwm1Hv1qvdlN3rxs6K9UARUjHyYgf","INFM 109"
+29,"ITSP135","INFM 109","INFM 109","https://wwwapps.ivytech.edu/cor3/o/0/8/RD4BQF03kM5Oe7d1N9Yg6l9OOSQEUmR4dJARqsPq0LOutDIf4SccZYOBRqipNX4T","ITSP 135"
+34,"NETI105","ENGL 083","NONE","https://wwwapps.ivytech.edu/cor3/y/3/7/q2EhLUIjLGSuTHIPZIOY7cuLBsA8dzHekdzt2eKn46WSyifWCwlFlNnDSvQAfyf4","NETI 105"
+36,"IVYT111","NONE","NONE","https://wwwapps.ivytech.edu/cor3/e/3/4/tBl7S7GqQuREgF9KFghMRvoWfEhIR0xQjtpyv7GYXs1Sw5atGl6q7u9vuhxjRuNE","IVYT 111"
+37,"SDEV120","ENGL 083","NONE","https://wwwapps.ivytech.edu/cor3/w/4/4/U1hxddqqQ61oZtr7b1OCw54YI5FfJy8t5JCvG5X8PZmSTI5Bax8EQ3FOtJCCTSXo","SDEV 120"
+43,"CPIN279","Program Advisor Approval","NONE","https://wwwapps.ivytech.edu/cor3/j/6/3/Z6Yx939UScPoptDchEAvZWoUkZsjhn1DtqbH0x28rR1bjBYlMBSr8AXH2PB7OsEz","CPIN 279"
+46,"CSIA105","ITSP 135","NONE","https://wwwapps.ivytech.edu/cor3/e/7/1/3emHUpFvsV15URF09IHAOP7DAUNGx73eF8aed3sXM3KJpXTJnQelueEKjzSUnocn","CSIA 105"

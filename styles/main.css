@@ -1,0 +1,382 @@
+/*  
+	Author: 	Roger Oakley
+	Date:   	December 23, 2017
+	Description:    Styles Template for index.html
+	Filename: 	main.css
+*/
+
+/*
+@media only screen and (min-width:280px) {
+   For mobile phones: 
+  .menu, .main, .right {
+    width:100%;
+  }
+}
+*/
+
+/* ------------------ Responsive  --------------------*/
+
+* {
+  box-sizing: border-box;
+}
+.menu {
+  float:left;
+  width:20%;
+  text-align:center;
+}
+.menuitem {
+  background-color:#e5e5e5;
+  padding:8px;
+  margin-top:7px;
+}
+.main {
+  margin: 0 auto;
+}
+.right {
+  background-color:#e5e5e5;
+  float:left;
+  width:20%;
+  padding:15px;
+  margin-top:7px;
+  text-align:center;
+}
+/**********************************************************/
+
+
+
+/* -------------------button icon--------------------*/
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+#main {
+    transition: margin-left .5s;
+    padding: 16px;
+}
+
+/* -------------------button icon END-------------------*/
+
+
+
+/* -------------------Button Ripple Program Options --------------------*/
+.buttonRipplePo {
+    position: relative;
+    background-color: #157c4e;
+    border: none;
+    font-size: 1em;
+    padding: 20px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    width: 75%;
+    height: 30%;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.buttonRipplePo:after {
+    content: "";
+    background: #90EE90;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s;
+}
+
+.buttonRipplePo:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+}
+
+/* -------------------Button Ripple Program Options END-------------------*/
+
+
+/* -------------------Button Ripple--------------------*/
+.buttonRipple {
+    position: relative;
+    color: #FFFFFF;
+    background-color: #157c4e;
+    border: none;
+    font-size: .6em;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.buttonRipple:after {
+    content: "";
+    background: #90EE90;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.buttonRipple:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+/* -------------------Button Ripple END--------------------*/
+
+
+/* -------------------Campus Page Styles ------------------*/
+.standard {
+    color: #157c4e;
+    text-align: center;
+}
+
+.optionValue {
+    display: block;
+    margin: 0 auto;
+    font-size: 1.2em;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+
+/*-------------------------------Courses Hover-------------------------------*/
+#course {
+  z-index: 0;
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.hover-course{
+    background:rgba(0,0,0,0.75);
+    display: none;
+    z-index: 1;
+    text-align: center;
+}
+    
+#course:hover + .hover-course {
+    display: block;
+    color: white;
+    z-index: 1;
+    margin: 8% 0 0 78%;
+}
+
+/*----------------------------------------------------------------------------*/
+
+/* ----------------------Table styles Campus.php file-----------------------*/
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, #divLegend, #divCamp {
+	display: block;
+	text-align: center;
+	background: white;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+
+
+
+/* navigation */
+
+nav {
+	color: white;
+	font-size: 16pt;
+}
+
+nav ul li {
+	display: inline-block;
+	padding: 1px 1%; 
+	background: green;
+    color: black;
+}
+
+
+article {
+	margin-top: 10px;
+	position: relative;
+    color: black;
+}
+
+article p {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+#camp {
+    width: 250px;
+    font-size: 120%;
+    margin-bottom: 40px;
+}
+#divCamp table {
+    width: 100%;
+    empty-cells: inherit;
+    display: block;
+	border-collapse: collapse;
+	border-spacing: 0;
+    overflow: auto;
+    overflow-y: hidden;
+}
+
+/* Program Table */
+#divCamp {
+	color: white;
+	padding: 10px;
+}
+
+#divCamp table caption {
+	font-weight: bold;
+	font-size: 110%;
+	margin-left: 130px;
+}
+
+#divCamp table tr td {
+	padding: 4px;
+	color: black;
+}
+
+#ddown{
+	font-size: 250%;
+	height: 30px;
+	vertical-align: middle;
+}
+
+#math {
+	font-weight: bold;
+	font-size: 150%;
+	color: white;
+	background: black;
+	height: 30px;
+	width: 10.5%; 
+	vertical-align: middle;
+}
+
+#r0a, #r1a, #r2a {
+	border-top: 1px solid blue;
+	font-size: 140%;
+	vertical-align: middle;
+}
+
+#r0b, #r1b, #r2b {
+	font-size: 90%;
+	vertical-align: middle;
+}
+
+#r0c, #r1c, #r2c {
+	border-bottom: 1px solid blue;
+	font-size: 115%;
+	vertical-align: middle;
+}
+
+#c1a, #c1b, #c1c {
+	width: 12%;
+	border-left: 1px solid blue;
+	border-right: 1px solid blue;
+}
+#c2a, #c2b, #c2c {
+	width: 4%;
+	border-right: 1px solid blue;
+	border-bottom: 1px solid white;
+	border-top: 1px solid white;
+}
+
+#c3a, #c3b, #c3c, #c4a, #c4b, #c4c, 
+#c5a, #c5b, #c5c, #c8a, #c8b, #c8c, #c9a, #c9b, #c9c {
+	width: 9%;
+	border-left: 1px solid blue;
+	border-right: 1px solid blue;
+	vertical-align: middle;
+}
+
+#c6a, #c6b, #c6c, #c7a, #c7b, #c7c {
+	width: 12%;
+	border-left: 1px solid blue;
+	border-right: 1px solid blue;
+	vertical-align: middle;
+}
+/* Legend Table */
+
+#divLegend table{
+    width: 100%;
+	padding: 10px;
+    float: both;
+}
+
+#divLegend table caption {
+	font-weight: bold;
+	font-size: 110%;
+	margin: 0px 0px 10px 0px;
+}
+
+#L1L, #L2L, #L1R, #L2R {
+	width: 50%;
+	font-size: 100%;
+	padding: 3px 0px 3px 0px;
+}
+
+/* footer */
+footer {
+	width: 100%;
+}
+
+footer p {
+	background: #157c4e;
+	color: white;
+	font-size: 1.2em;
+	padding: 3px 0px 3px 0px;
+    margin-top: 50px;
+}
+
+footer p span {
+	color: #ffcb40;
+}

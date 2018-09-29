@@ -1,0 +1,16 @@
+2,Indiana State University,http://www.indstate.edu/academics/undergraduate/majors/computer-science,1,Computer Science
+3,Indiana State University,http://www.indstate.edu/academics/undergraduate/majors/it,5,Information Technology
+4,Northwood,http://www.northwood.edu/transfer-students/TransferGuides/IVY 3+1 Transfer Articulation Guide - AS CIM SD.pdf,8,Software Development
+5,Northwood,http://www.northwood.edu/transfer-students/TransferGuides/IVY 3+1 Transfer Articulation Guide - AS CIM.pdf,2,Cyber Security
+6,Western Governers,http://www.wgu.edu/online_it_degrees/data_management_analytics_bachelor_degree,3,Data Management/Data Analytics
+7,Western Governers,http://www.wgu.edu/online_it_degrees/information_technology_degree,5,Information Technology
+8,Western Governers,http://www.wgu.edu/online_it_degrees/information_technology_degree_security,2,Security
+9,Western Governers,http://www.wgu.edu/online_it_degrees/information_technology_degree_security,6,Network Administration
+10,Western Governers,http://www.wgu.edu/online_it_degrees/software_development_degree,8,Software Development
+11,Walden University,https://www.waldenu.edu/-/media/Walden/files/admissions/ivy-tech-articulation-guide.pdf?la=en,5,Computer Information Systems
+12,Franklin University of Ohio,https://www.franklin.edu/transfer-credit-college-course-equivalency-tool/,2,Cyber Security
+13,Franklin University of Ohio,https://www.franklin.edu/transfer-credit-college-course-equivalency-tool/,8,Web Development
+14,Franklin University of Ohio,https://www.franklin.edu/transfer-credit-college-course-equivalency-tool/,5,Information Technology
+15,Bellevue University,http://itcc.smoothesttransfer.com/bachelors-degrees.aspx,5,Computer Information Systems
+16,Bellevue University,http://itcc.smoothesttransfer.com/bachelors-degrees.aspx,8,Software Development
+17,Bellevue University,http://itcc.smoothesttransfer.com/bachelors-degrees.aspx,8,Web Technologies

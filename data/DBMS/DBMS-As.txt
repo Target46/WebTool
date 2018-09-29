@@ -1,0 +1,8 @@
+28,"INFM109","ENGL 083","NONE","https://wwwapps.ivytech.edu/cor3/x/2/4/GkV4kxKAxTQpg1TJRLHkc1GDG3o1RKRiseTMwm1Hv1qvdlN3rxs6K9UARUjHyYgf","INFM 109"
+29,"ITSP135","INFM 109","INFM 109","https://wwwapps.ivytech.edu/cor3/o/0/8/RD4BQF03kM5Oe7d1N9Yg6l9OOSQEUmR4dJARqsPq0LOutDIf4SccZYOBRqipNX4T","ITSP 135"
+33,"NETI100","NONE","NONE","https://wwwapps.ivytech.edu/cor3/a/4/3/yy2hYMqrfhtMnLqOr7f4r7F5f4YqAKEdS9bDbRwZnP5vE46v9WIPy1lQZJWwfVaR","NETI 100"
+36,"IVYT111","NONE","NONE","https://wwwapps.ivytech.edu/cor3/e/3/4/tBl7S7GqQuREgF9KFghMRvoWfEhIR0xQjtpyv7GYXs1Sw5atGl6q7u9vuhxjRuNE","IVYT 111"
+37,"SDEV120","ENGL 083","NONE","https://wwwapps.ivytech.edu/cor3/w/4/4/U1hxddqqQ61oZtr7b1OCw54YI5FfJy8t5JCvG5X8PZmSTI5Bax8EQ3FOtJCCTSXo","SDEV 120"
+43,"CPIN279","Program Advisor Approval","NONE","https://wwwapps.ivytech.edu/cor3/j/6/3/Z6Yx939UScPoptDchEAvZWoUkZsjhn1DtqbH0x28rR1bjBYlMBSr8AXH2PB7OsEz","CPIN 279"
+46,"DBMS210","DBMS 110","NONE","https://wwwapps.ivytech.edu/cor3/n/3/0/iDWNZOz5AhBjVVMelIxA7r7IguHH1NBQHg7AsqCi8ZPtwQlJOjOec1n6ojkwIQWL","DBMS 210"
+47,"DBMS110","INFM 109","INFM 109","https://wwwapps.ivytech.edu/cor3/v/5/8/ShvDHWoZZhDiRBwfRU3ymfLRDKEfG9g8yvZZ7Hf4Kwh5z05RpJp0uPwamcMtDa4w","DBMS 110"

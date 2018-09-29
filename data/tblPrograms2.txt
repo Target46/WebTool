@@ -1,0 +1,9 @@
+1,"Math 123",,,,"INFM",,"ITSP","SVAD","NETI"
+2,"Quantitative Reasoning",,,,"Informatics",,"Information Technology Support","Server Administration","Network Infrastructure"
+3,,,,,,,,,
+4,"Math 136",,"SDEV","DBMS","INFM","CSIA",,,
+5,"College Algebra",,"Software Development","Database Management","Informatics","Cyber Security / Information Assurance",,,
+6,,,,,,,,,
+7,"Math 211 & 212",,"CSCI",,,,,,
+8,"Calculus I & II",,"Computer Science",,,,,,
+9,,,,,,,,,
